@@ -2,7 +2,8 @@
 
 A terminal-based **Rock-Paper-Scissors** game built using Python. This project is a classic implementation where the player competes against the computer in a race to score 3 points. 
 
-https://github.com/saqib783/rock-paper-scissors-/blob/1b02e85266e86fbb5872373c2919c2cf1c5e3c7f/Screenshot%20(1911).png
+![Game Screenshot](https://githubusercontent.com)
+
 
 This repository serves as a practical project for my **GitHub Portfolio**.
 
